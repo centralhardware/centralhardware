@@ -18,8 +18,6 @@ something else
 
 i use jetbrain space for my private projects and CI/CD (not really, I restart them myself)
 
-Skills: java, ruby, spring, docker, unix
-
 on the rights of telegram chat admin: [KotlinLangRu](https://t.me/KotlinLangRu), [Programming Offtop](https://t.me/pofftop),[Linuxoid](https://t.me/xalinux)
 
 
