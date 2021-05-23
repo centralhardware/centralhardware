@@ -1,5 +1,7 @@
 ### Hi, my name is Fedechkin Alexey is also centralhardware
-Currently, I am a student at Barnaul industrial economics college. for a while ruby backend dev. mostly I am programming in java. sometimes python, not from a good life
+Currently, I am a student at Barnaul industrial economics college and work in LynxSoft as java dev for a while ruby backend dev. mostly I am programming in java. sometimes python, not from a good life
+
+
 
 about programming
 - static typing
