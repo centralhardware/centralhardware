@@ -1,5 +1,5 @@
 ### Hi, my name is Fedechkin Alexey is also centralhardware
-Currently, I am a student at Barnaul industrial economics college and work in LynxSoft as java dev for a while ruby backend dev. mostly I am programming in java. sometimes python, not from a good life
+Currently, I am junior java dev. for a while ruby backend dev. mostly I am programming in java. sometimes python, not from a good life
 
 
 
@@ -18,7 +18,7 @@ something else
 - intel nuc as home server
 - synology DSM as NAS
 
-i use jetbrain space for my private projects and CI/CD (not really, I restart them myself)
+i use jetbrain space/github-actions for my projects and CI/CD (not really, I restart them myself)
 
 on the rights of telegram chat admin: [KotlinLangRu](https://t.me/KotlinLangRu), [Programming Offtop](https://t.me/pofftop),[Linuxoid](https://t.me/xalinux)
 
