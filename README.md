@@ -1,3 +1,6 @@
+> Разговоры ничего не стоят. Покажите мне код.
+> @LynxSoft
+
 ### Hi, my name is Fedechkin Alexey is also centralhardware
 Currently, I am junior java dev. for a while ruby backend dev. mostly I am programming in java. sometimes python, not from a good life
 
