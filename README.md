@@ -17,7 +17,10 @@ about software
 - opensource
 - simple deploy with docker
 
-on the rights of telegram chat admin: [KotlinLangRu](https://t.me/KotlinLangRu)
+admin in:
+- [kofftop](https://t.me/kofftop)
+- [ru_proxmox](https://t.me/ru_proxmox)
+- [KotlinLangRu](https://t.me/KotlinLangRu)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=centralhardware)](https://github.com/anuraghazra/github-readme-stats)
 
