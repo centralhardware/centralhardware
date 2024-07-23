@@ -4,7 +4,7 @@
 
 my blog: https://t.me/centralhardwaretraveling
 
-### Hi, my name is Fedechkin Alexey is also centralhardware
+### Hi, my name is Fedechkin Alexey aka centralhardware
 Currently, I am java dev at haulmont. for a while ruby backend dev. mostly I am programming in java. sometimes python, not from a good life
 
 about programming
