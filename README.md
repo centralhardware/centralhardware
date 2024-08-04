@@ -20,7 +20,9 @@ about software
 admin in:
 - [kofftop](https://t.me/kofftop)
 - [ru_proxmox](https://t.me/ru_proxmox)
-- [KotlinLangRu](https://t.me/KotlinLangRu)
+- [Вместе – Черногория]([https://t.me/Vmeste_Montenegro]
+- [Вместе – Польша](https://t.me/Vmeste_Poland)
+- [Хабрачат-2024](https://t.me/habrachat2024)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=centralhardware)](https://github.com/anuraghazra/github-readme-stats)
 
