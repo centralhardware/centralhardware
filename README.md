@@ -20,7 +20,6 @@ about software
 admin in:
 - [kofftop](https://t.me/kofftop)
 - [ru_proxmox](https://t.me/ru_proxmox)
-- [Вместе – Черногория](https://t.me/Vmeste_Montenegro)
 - [Вместе – Польша](https://t.me/Vmeste_Poland)
 - [Хабрачат-2024](https://t.me/habrachat2024)
 
