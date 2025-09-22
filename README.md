@@ -1,27 +1,31 @@
-> Разговоры ничего не стоят. Покажите мне код.
-> 
-> @LynxSoft
+> Talk is cheap. Show me the code.  
+> @LynxSoft  
 
-my blog: https://t.me/centralhardwaretraveling
+📌 **My blog:** [t.me/centralhardwaretraveling](https://t.me/centralhardwaretraveling)
 
-### Hi, my name is Fedechkin Alexey aka centralhardware
-Currently, I am java dev at haulmont. for a while ruby backend dev. mostly I am programming in java. sometimes python, not from a good life
+---
 
-about programming
-- static typing
-- true OOP
-- true IDE, not editor
+### Hi, I'm Fedechkin Alexey (aka centralhardware)
 
-about software
-- self hosted
-- opensource
-- simple deploy with docker
+Currently, I’m a Java developer at **Haulmont**.  
+For a while, I worked as a Ruby backend developer.  
+Mostly, I program in **Java**, and sometimes in **Python** (not by choice).
 
-admin in:
-- [kofftop](https://t.me/kofftop)
-- [ru_proxmox](https://t.me/ru_proxmox)
-- [Вместе – Польша](https://t.me/Vmeste_Poland)
-- [Хабрачат-2024](https://t.me/habrachat2024)
+#### About programming
+- static typing  
+- true OOP  
+- a real IDE, not just an editor  
+
+#### About software
+- self-hosted  
+- open source  
+- simple deployment with Docker  
+
+#### Admin in:
+- [kofftop](https://t.me/kofftop)  
+- [ru_proxmox](https://t.me/ru_proxmox)  
+- [Habrachat-2025](https://t.me/habrachat2024)  
+
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=centralhardware)](https://github.com/anuraghazra/github-readme-stats)
-
