@@ -24,7 +24,7 @@ Mostly, I program in **Java**, and sometimes in **Python** (not by choice).
 #### Admin in:
 - [kofftop](https://t.me/kofftop)  
 - [ru_proxmox](https://t.me/ru_proxmox)  
-- [Habrachat-2025](https://t.me/habrachat2024)  
+- [Habrachat-2026](https://t.me/habrachat2026)  
 
 ---
 
